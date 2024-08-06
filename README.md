@@ -32,7 +32,7 @@ Atualmente, estou trabalhando na implantação de um software de CRM para ajusta
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doritoscomuva&show_icons=true)
 
 
 
@@ -42,7 +42,7 @@ Atualmente, estou trabalhando na implantação de um software de CRM para ajusta
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/doritoscomuva/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
