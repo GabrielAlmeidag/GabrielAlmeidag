@@ -6,7 +6,7 @@ Sou graduando em Ciência da Computação. Tenho experiência em  linguagens e t
 
 ## 🎫Projeto Atual
 
-Atualmente, estou trabalhando na implantação de um software de CRM para ajustar os processos dos setores da empresa. Este projeto envolve a formulação de processos utilizando chave script para garantir a eficiência e a integração entre os departamentos.
+Atualmente, estou trabalhando na implantação de um software de CRM para ajustar os processos dos setores da empresa. Este projeto envolve a formulação de processos utilizando Javacript para formulação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-souza-69347228a)
 ---
