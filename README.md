@@ -32,7 +32,7 @@ Atualmente, estou trabalhando na implantação de um software de CRM para ajusta
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doritoscomuva&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielAlmeidag&show_icons=true)
 
 
 
