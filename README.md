@@ -1,7 +1,7 @@
 # *<div align="center">Olá👋,Sou o Gabriel</div>*  
   
 
-<a href="https://github.com/https://github.com/GabrielAlmeidag" target="_blank">
+<a href="https://github.com/GabrielAlmeidag" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://br.linkedin.com/in/gabriel-souza-69347228a" target="_blank">
