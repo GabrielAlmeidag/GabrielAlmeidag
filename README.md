@@ -12,13 +12,8 @@
 
 
 ### Sobre  
-🔭 Sou graduando em Ciência da Computação. Tenho experiência em linguagens e tecnologias, incluindo SQL, Java, Python (com Apache Spark), e desenvolvimento web.
 
 🌱 Atualmente, estou aprendendo Hyperledger e Kubernetes e trabalhando em projetos com aplicações REST e Spring Boot.
-
-
-  
-  
 
 <br/>  
 
