@@ -45,7 +45,7 @@
 
 | Projeto                                   |          Link          |
 |--------------                             |------------------------|
-| Urna Eletrônica (PHP)                     | <https://github.com/GabrielAlmeidag/UrnaPHP> |
+| Urna Eletrônica (PHP)                     | <https://github.com/GabrielAlmeidag/Urna>
 | Landing Page - Direito Trabalhista        | <https://github.com/GabrielAlmeidag/Desenvolvimento-Web>|
 
 </details>
