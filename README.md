@@ -13,7 +13,7 @@
 
 ### Sobre  
 
-🌱 Atualmente, estou aprendendo Docker e Swagger e trabalhando em projetos com aplicações REST e Spring Boot.
+👨‍💻Atualmente, estou aprendendo Ciência de Dados e Nuvem.
 
 <br/>  
 
