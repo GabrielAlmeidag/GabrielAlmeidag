@@ -13,7 +13,7 @@
 
 ### Sobre  
 
-👨‍💻Atualmente, estou aprendendo Ciência de Dados e Nuvem.
+👨‍💻Atualmente, estou aprendendo sobre Ciência de Dados e Nuvem.
 
 <br/>  
 
