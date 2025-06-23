@@ -1,15 +1,21 @@
+<!-- Octocat bonitão -->
+<img align="right" width="120" src="https://octodex.github.com/images/original.png" alt="Octocat" />
+
 # <div align="center">Olá 👋, Sou o Gabriel</div>  
 
-<a href="https://github.com/GabrielAlmeidag" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://br.linkedin.com/in/gabriel-souza-69347228a" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>  
+<p align="center">
+  <a href="https://github.com/GabrielAlmeidag" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://br.linkedin.com/in/gabriel-souza-69347228a" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</p>
 
 ---
 
 ### 👨‍💻 Sobre  
+
 Atualmente, estou aprendendo sobre **Ciência de Dados** e **Computação em Nuvem**, desenvolvendo projetos que envolvem automações, dashboards e análise de dados.
 
 ---
@@ -46,11 +52,11 @@ Atualmente, estou aprendendo sobre **Ciência de Dados** e **Computação em Nuv
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielAlmeidag&show_icons=true&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielAlmeidag&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlmeidag&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlmeidag&hide_border=true&layout=compact&theme=tokyonight" />
 
 </td></tr></table>
 
@@ -58,8 +64,36 @@ Atualmente, estou aprendendo sobre **Ciência de Dados** e **Computação em Nuv
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielAlmeidag&theme=darkhub&row=1&column=4&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 📈 Contribuições Recentes
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAlmeidag&theme=react-dark&bg_color=0d1117&hide_border=true" />
+</p>
+
+---
+
+### 🌟 Frase do Dia
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117" />
+</p>
+
+---
+
 ### 📍 Visitantes no Perfil
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/GabrielAlmeidag/count.svg" alt="Visitantes" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
