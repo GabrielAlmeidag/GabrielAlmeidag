@@ -72,13 +72,7 @@ Atualmente, estou aprendendo sobre **Ciência de Dados** e **Computação em Nuv
 
 ---
 
-### 📈 Contribuições Recentes
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAlmeidag&theme=react-dark&bg_color=0d1117&hide_border=true" />
-</p>
-
----
 
 ### 🌟 Frase do Dia
 
