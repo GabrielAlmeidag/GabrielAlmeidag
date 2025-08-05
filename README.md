@@ -82,12 +82,4 @@ Atualmente, estou aprendendo sobre **Ciência de Dados** e **Computação em Nuv
 
 ---
 
-### 📍 Visitantes no Perfil
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/GabrielAlmeidag/count.svg" alt="Visitantes" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</p>
